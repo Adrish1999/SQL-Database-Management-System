@@ -1,0 +1,8 @@
+/*Create table dept.*/
+
+CREATE TABLE `dept` (
+	`DNO` INT(10) NOT NULL,
+	`DNAME` VARCHAR(50) NOT NULL,
+	`LOC` VARCHAR(50) NOT NULL,
+	PRIMARY KEY (`DNO`)
+);
