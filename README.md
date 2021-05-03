@@ -1,2 +1,2 @@
 # SQL-Database-Management-System
-Managing databases using SQL(Structured Query Language),
+Managing databases using SQL(Structured Query Language).
