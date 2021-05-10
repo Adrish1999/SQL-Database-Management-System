@@ -1,5 +1,5 @@
 -- --------------------------------------------------------
--- Author:								Adrish Bose
+-- Author:						 Adrish Bose
 -- Host:                         127.0.0.1
 -- Server version:               8.0.23 - MySQL Community Server - GPL
 -- Server OS:                    Win64
