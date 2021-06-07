@@ -1,0 +1,10 @@
+CREATE TABLE `customers` (
+	`CustomerID` INT(10) NOT NULL,
+	`CustomerName` VARCHAR(30) NOT NULL COLLATE,
+	`ContactName` VARCHAR(20) NOT NULL COLLATE,
+	`Address` VARCHAR(30) NOT NULL,
+	`City` VARCHAR(15) NOT NULL,
+	`PostalCode` VARCHAR(15) NOT NULL,
+	`Country` VARCHAR(15) NOT NULL,
+	PRIMARY KEY (`CustomerID`) USING BTREE
+);
